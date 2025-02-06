@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.tab-btn {
+  @apply px-6 py-3 [font-family:inherit] bg-[#9f2d66] border-[1px] border-solid border-[#934d70] text-[white];
+}
+
+.tab-btn:hover,
+.tab-btn:active {
+  @apply active:bg-[#b28099] active:border-[#b28099];
+}
