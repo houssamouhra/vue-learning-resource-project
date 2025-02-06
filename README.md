@@ -1,8 +1,7 @@
 # Vue Learning Resource App
 
-## Made with Vue 3 and TailwindCSS
 
-[https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png&color=000000] + [https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000]
+[Vue](https://img.icons8.com/?size=100&id=dzfo6UeXW9h7&format=png&color=000000) + [TailwindCSS](https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000)
 
 This template should help get you started developing with Vue 3 in Vite.
 
