@@ -5,7 +5,7 @@
 <img src="src/assets/imgs/logo-vue.png" style="margin-right: 80px"> &nbsp;&nbsp;&nbsp; 
 <img src="src/assets/imgs/logo-tailwind.png" width="120" height="110">
 </div>
-
+<br><br>
 *This template should help get you started developing with Vue 3 in Vite.*
 
 ## Recommended IDE Setup
