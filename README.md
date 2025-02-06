@@ -2,7 +2,7 @@
 
 ### made with
 <div style="display: inline">
-<img src="src/assets/imgs/logo-vue.png" width="50" style="margin-right: 10px">
+<img src="src/assets/imgs/logo-vue.png" width="50" style="margin-right: 40px">
 <img src="src/assets/imgs/logo-tailwind.png" width="60">
 </div>
 
