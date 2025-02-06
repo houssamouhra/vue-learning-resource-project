@@ -3,7 +3,7 @@
 ### made with
 <div style="display: inline">
 <img src="src/assets/imgs/logo-vue.png" width="50" style="margin-right: 20px">
-<img src="src/assets/imgs/logo-tailwind.png" width="50">
+<img src="src/assets/imgs/logo-tailwind.png" width="70">
 </div>
 This template should help get you started developing with Vue 3 in Vite.
 
