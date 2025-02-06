@@ -1,7 +1,7 @@
 # Vue Learning Resource App
 
 ### made with
-![vue](src/assets/imgs/logo-vue.png) *** ![tailwind](src/assets/imgs/logo-tailwind.png)
+![vue](src/assets/imgs/logo-vue.png) --- ![tailwind](src/assets/imgs/logo-tailwind.png)
 
 This template should help get you started developing with Vue 3 in Vite.
 
